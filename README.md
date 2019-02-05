@@ -4,7 +4,7 @@ An example rss feed to power a carousel in The Bot Platform
 
 It requires media:thumbnail to power the image in the carousel
 
-```
+```xml
 <item>
     <title>Q&A: The Irish border backstop</title>
     <description>BBC News NI assesses the current position on the Irish border and Brexit.</description>
