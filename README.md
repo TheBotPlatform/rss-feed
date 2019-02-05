@@ -6,7 +6,7 @@ It requires media:thumbnail to power the image in the carousel
 
 ```xml
 <item>
-    <title>Q&A: The Irish border backstop</title>
+    <title>The Irish border backstop</title>
     <description>BBC News NI assesses the current position on the Irish border and Brexit.</description>
     <link>https://www.bbc.co.uk/news/uk-northern-ireland-politics-44615404</link>
     <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-politics-44615404</guid>
