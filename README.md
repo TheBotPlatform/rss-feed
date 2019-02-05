@@ -35,6 +35,10 @@ In your RSS feed you can have any number of items, bots only have a maximum of 1
 
 ## Full example
 
+You can access a full example file here: https://raw.githubusercontent.com/TheBotPlatform/rss-feed/master/example.xml
+
+Or below
+
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
