@@ -6,21 +6,21 @@
         <lastBuildDate>Tue, 05 Feb 2019 11:19:48 GMT</lastBuildDate>
         <item>
             <title>This is the title of the first item</title>
-            <description>This is the subtitle in the carousel</description>
+            <description>This is the description of the item</description>
             <link>https://thebotplatform.com/news</link>
             <guid isPermaLink="true">https://thebotplatform.com/news/1</guid>
             <media:thumbnail url="http://placekitten.com/600/200"/>
         </item>
         <item>
             <title>This is the title of the second item</title>
-            <description>This is the subtitle in the carousel</description>
+            <description>This is the description of the item</description>
             <link>https://thebotplatform.com/news</link>
             <guid isPermaLink="true">https://thebotplatform.com/news/2</guid>
             <media:thumbnail url="http://placekitten.com/600/201"/>
         </item>
         <item>
             <title>This is the title of another item</title>
-            <description>This is the subtitle in the carousel</description>
+            <description>This is the description of the item</description>
             <link>https://thebotplatform.com/news</link>
             <guid isPermaLink="true">https://thebotplatform.com/news/3</guid>
             <media:thumbnail url="http://placekitten.com/600/202"/>
