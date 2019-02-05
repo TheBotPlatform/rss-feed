@@ -2,7 +2,7 @@
 
 An example rss feed to power a carousel in The Bot Platform
 
-It requires media:thumbnail to power the image in the carousel
+It requires `media:thumbnail` to power the image in the carousel
 
 ```xml
 <item>
