@@ -44,7 +44,7 @@ Or below
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
         <title>Sample RSS Feed</title>
-        <link>https:thebotplatform.com</link>        
+        <link>https://thebotplatform.com</link>        
         <lastBuildDate>Tue, 05 Feb 2019 11:19:48 GMT</lastBuildDate>
         <item>
             <title>This is the title of the first item</title>
