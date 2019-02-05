@@ -26,7 +26,7 @@ In your RSS feed you can have any number of items, bots only have a maximum of 1
 ```xml
 <item>
     <title>This is the title of the first item</title>
-    <description>This is the subtitle in the carousel</description>
+    <description>This is the description of the item</description>
     <link>https://thebotplatform.com/news</link>
     <guid isPermaLink="true">https://thebotplatform.com/news</guid>
     <media:thumbnail url="http://placekitten.com/600/200"/>
